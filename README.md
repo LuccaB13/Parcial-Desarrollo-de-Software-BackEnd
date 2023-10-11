@@ -1,4 +1,4 @@
-# Trabajo Práctico: API REST sin paginación
+# Parcial de Back-End
 Desarrollo de Software
 
 Alumno: Burgos Lucca
